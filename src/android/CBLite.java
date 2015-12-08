@@ -8,15 +8,15 @@ import org.apache.cordova.CordovaWebView;
 import org.apache.cordova.CordovaInterface;
 import org.json.JSONArray;
 
-import com.thebubblers.couchbase.lite.android.AndroidContext;
-import com.thebubblers.couchbase.lite.Manager;
-import com.thebubblers.couchbase.lite.listener.LiteListener;
-import com.thebubblers.couchbase.lite.listener.LiteServlet;
-import com.thebubblers.couchbase.lite.listener.Credentials;
-import com.thebubblers.couchbase.lite.router.URLStreamHandlerFactory;
-import com.thebubblers.couchbase.lite.View;
-import com.thebubblers.couchbase.lite.javascript.JavaScriptViewCompiler;
-import com.thebubblers.couchbase.lite.util.Log;
+import com.couchbase.lite.android.AndroidContext;
+import com.couchbase.lite.Manager;
+import com.couchbase.lite.listener.LiteListener;
+import com.couchbase.lite.listener.LiteServlet;
+import com.couchbase.lite.listener.Credentials;
+import com.couchbase.lite.router.URLStreamHandlerFactory;
+import com.couchbase.lite.View;
+import com.couchbase.lite.javascript.JavaScriptViewCompiler;
+import com.couchbase.lite.util.Log;
 
 import java.io.IOException;
 import java.io.File;
