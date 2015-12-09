@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.thebubblers.couchbase.lite.phonegap" version="1.1.2">
-  <name>Couchbase Lite</name>
+  <name>Couchbase Lite bubblers</name>
   <description>Install Couchbase Lite in your app to enable JSON sync.</description>
   <license>Apache 2.0</license>
   <js-module src="www/cblite.js" name="CouchbaseLite">
