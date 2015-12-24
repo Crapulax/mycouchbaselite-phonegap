@@ -8,7 +8,7 @@
   </js-module>
   <asset src="www/cblite-example.html" target="cblite-example.html"/>
   <engines>
-    <engine name="cordova" version=">=4.0.0"/>
+    <engine name="cordova" version=">=3.9.0"/>
   </engines>
   <platform name="ios">
     <config-file target="config.xml" parent="/widget">
